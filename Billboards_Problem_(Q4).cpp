@@ -41,9 +41,7 @@ int billboardConst( int M, int n, int x, int position[], int revenue[] )
 				}
 				next++;
 			}
-
 			
-				
 			}
 		
 
